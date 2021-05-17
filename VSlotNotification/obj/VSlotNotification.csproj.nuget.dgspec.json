@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yogeshpathak/Projects/VSlotNotification/VSlotNotification/VSlotNotification.csproj": {}
+  },
+  "projects": {
+    "/Users/yogeshpathak/Projects/VSlotNotification/VSlotNotification/VSlotNotification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yogeshpathak/Projects/VSlotNotification/VSlotNotification/VSlotNotification.csproj",
+        "projectName": "VSlotNotification",
+        "projectPath": "/Users/yogeshpathak/Projects/VSlotNotification/VSlotNotification/VSlotNotification.csproj",
+        "packagesPath": "/Users/yogeshpathak/.nuget/packages/",
+        "outputPath": "/Users/yogeshpathak/Projects/VSlotNotification/VSlotNotification/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/yogeshpathak/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            },
+            "RestSharp.Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[85.0.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[90.0.4430.2400, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
