@@ -5,10 +5,15 @@ steps to run-
 1-donwload and install https://dotnet.microsoft.com/download/dotnet/3.1
 
 2-clone this repository
+
 3-create a temp gmail account
+
 4- Add username and password of that account into appSettings.json file (this is needed to send emails from the code)
+
 5- run "dotnet build" inside cloned folder 
+
 6- run "cd VSlotNotification/bin/Debug/netcoreapp3.1"
+
 7-run "dotnet VSlotNotification.dll"
 
 
