@@ -75,9 +75,8 @@ namespace VSlotNotification
                             {
                                 foreach (var session in center.sessions)
                                 {
-                                    int avilableCapecity = Convert.ToInt32(session.available_capacity);
-                                    int avilableCapecitySecondDose = Convert.ToInt32(session.available_capacity_dose2);
-                                    if (Convert.ToInt32(session.min_age_limit) == 18 && (avilableCapecity - avilableCapecitySecondDose) > 0)
+                                    int avilableCapecity = Convert.ToInt32(session.available_capacity_dose1);
+                                    if (Convert.ToInt32(session.min_age_limit) == 18 && avilableCapecity > 0)
                                     {
                                         emailBody = emailBody + center.name + "  " + session.date + "  available slots-" + session.available_capacity + "<br/>";
                                         sendEmail = true;
@@ -200,5 +199,6 @@ namespace VSlotNotification
         public string date { get; set; }
         public int min_age_limit { get; set; }
         public string available_capacity_dose2 { get; set; }
+        public string available_capacity_dose1 { get; set; }
     }
 }

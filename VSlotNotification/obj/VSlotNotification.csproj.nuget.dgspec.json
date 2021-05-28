@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yogeshpathak/Projects/VSlotNotification/VSlotNotification/VSlotNotification.csproj": {}
+    "/Users/yogeshpathak/Code/CowinNotiofier/VSlotNotification/VSlotNotification.csproj": {}
   },
   "projects": {
-    "/Users/yogeshpathak/Projects/VSlotNotification/VSlotNotification/VSlotNotification.csproj": {
+    "/Users/yogeshpathak/Code/CowinNotiofier/VSlotNotification/VSlotNotification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yogeshpathak/Projects/VSlotNotification/VSlotNotification/VSlotNotification.csproj",
+        "projectUniqueName": "/Users/yogeshpathak/Code/CowinNotiofier/VSlotNotification/VSlotNotification.csproj",
         "projectName": "VSlotNotification",
-        "projectPath": "/Users/yogeshpathak/Projects/VSlotNotification/VSlotNotification/VSlotNotification.csproj",
+        "projectPath": "/Users/yogeshpathak/Code/CowinNotiofier/VSlotNotification/VSlotNotification.csproj",
         "packagesPath": "/Users/yogeshpathak/.nuget/packages/",
-        "outputPath": "/Users/yogeshpathak/Projects/VSlotNotification/VSlotNotification/obj/",
+        "outputPath": "/Users/yogeshpathak/Code/CowinNotiofier/VSlotNotification/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

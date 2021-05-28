@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C64C4A37-B2B4-487F-8312-2F70AE832D31}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VSlotNotification/Program.cs">
+    <Files>
+      <File FileName="VSlotNotification/Program.cs" Line="122" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VSlotNotification" expanded="True">
+            <Node name="VSlotNotification" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VSlotNotification PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
