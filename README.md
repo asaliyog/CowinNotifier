@@ -6,7 +6,7 @@ steps to run-
 
 2-clone this repository
 
-3-create a temp gmail account
+3-create a temp gmail account and allow access to less secure apps - https://myaccount.google.com/u/2/lesssecureapps
 
 4- Add username and password of that account into appSettings.json file (this is needed to send emails from the code)
 
